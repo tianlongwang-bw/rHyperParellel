@@ -20,7 +20,7 @@ install.packages("rHyperband")
 
 * the latest development version:  
 ```r
-devtools::install_github("bwaterlabs/rHyperband")
+devtools::install_github("tianlongwang-bw/rHyperParellel")
 ```
 
 Because of authentication issues, you may need to download the zip file, and then create a tarball, and then install it.
