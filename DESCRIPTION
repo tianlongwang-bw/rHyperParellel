@@ -1,0 +1,19 @@
+Package: rHyperband
+Type: Package
+Title: Hyperband - A Novel Bandit-Based Approach to Hyperparameter
+        Optimization
+Version: 1.0.0-1
+Authors@R: person("Yachen", "Yan", email = "yanyachen21@gmail.com", role = c("aut", "cre"))
+Description: A Pure R implementation of Hyperband algorithm for Hyperparameter
+    Optimization. Bridgewater Version
+URL: http://github.com/yanyachen/rHyperband
+BugReports: http://github.com/yanyachen/rHyperband/issues
+Imports: stats, utils, data.table (>= 1.9.6), magrittr, foreach
+Suggests: xgboost
+License: NA
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Author: Yachen Yan [aut, cre]
+Maintainer: Jas Sekhon <sekhon@gmail.com>
